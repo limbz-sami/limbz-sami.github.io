@@ -1,0 +1,37 @@
+h1 {
+    color: darkblue;
+    text-align: left;
+}
+
+.navbar ul {
+    list-style-type:none;
+    color:black;
+}
+
+.navbar li a {
+    color: #000;
+    text-decoration: none;
+  }
+
+.bold {
+    font-weight: bold;
+    color:white
+}
+
+p {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image: url("wave.jpeg");
+    background-repeat: repeat-x;
+    background-position: top;
+}
+
+.container-fluid {
+padding-top: 2%;
+}
+
+img {
+    margin: 15px;
+  }
