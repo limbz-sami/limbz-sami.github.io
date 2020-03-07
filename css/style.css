@@ -179,3 +179,8 @@ body {
     clear: both;
     overflow: auto;
   }
+
+  .btn-primary {
+    background: darkslategray;
+    border-color: darkslategray;
+  }
